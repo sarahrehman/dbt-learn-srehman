@@ -1,13 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f15b32ac-f0c3-4d22-9810-84ca496e2a26" name="Default Changelist" comment="" />
+    <list default="true" id="f15b32ac-f0c3-4d22-9810-84ca496e2a26" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/jaffa_shop/staging/stg_orders.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/jaffa_shop/stripe/payment_data.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/example/my_first_dbt_model.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/example/my_second_dbt_model.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/example/schema.yml" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1kQbOUs34WdFuahmM7smsxGCixN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -15,7 +33,13 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/models/jaffa_shop/stripe" />
+    </key>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -41,5 +65,15 @@
       <updated>1605635731541</updated>
     </task>
     <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2075" y="137" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1605706679337">
+      <screen x="1440" y="-157" width="1920" height="980" />
+    </state>
+    <state x="2075" y="137" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.877/1440.-157.1920.980@1440.-157.1920.980" timestamp="1605706679337" />
+    <state x="374" y="265" key="com.intellij.ide.util.TipDialog" timestamp="1605706655511">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="374" y="265" key="com.intellij.ide.util.TipDialog/0.23.1440.877/1440.-157.1920.980@0.23.1440.877" timestamp="1605706655511" />
   </component>
 </project>
